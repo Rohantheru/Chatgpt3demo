@@ -1,7 +1,7 @@
 import openai
 import streamlit as st
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 st.header('GPT-3 Demo')
 input = st.text_area("Please enter the text", value="")
